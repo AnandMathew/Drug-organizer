@@ -1,19 +1,4 @@
-// -------------------------------------------------------------------
-// Department of Electrical and Computer Engineering
-// University of Waterloo
-//
-// Student Name:     Anand Mathew
-// Userid:           20560827
-//
-// Assignment:       PA 4
-// Submission Date:  2014-12-01
-// 
-// I declare that, other than the acknowledgements listed below, 
-// this program is my original work.
-//
-// Acknowledgements:
-// ECE-150 Lecture Slides
-// -------------------------------------------------------------------
+
 using System;
 using System.Collections.Generic;
 using System.IO;
